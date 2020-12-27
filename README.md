@@ -54,5 +54,7 @@ Dimension Tables
 4. time - timestamps of records in songplays broken down into specific units
     * start_time, hour, day, week, month, year, weekday
     
- 
+
+This star schema would be the most optimal for the analytics team. Also, because orginal dataset is in S3 the most efficient way for ETL process is to create first staging tables and use COPY command to load them. Once staging tables are created then core tables are crated with Insert stament.
+
 
