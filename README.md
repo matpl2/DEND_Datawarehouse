@@ -1,5 +1,5 @@
 # DEND Data Warehouse Project
-This file is a documentation file for the exercise performed as a part of Data Engineer NanoDegree Project - Data Warehouse. 
+This file is a documentation file for the exercise performed as a part of Data Warehouse excercise.
 
 Purpose of this project is to create analytical database that will be used by analytics team. Database chosen for this excercise is AWS Redshift. Redshift will be loaded with data from S3 buckets. These buckets consist data prodcued by dummy music streaming startup Sparkify.
 
